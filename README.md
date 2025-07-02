@@ -23,6 +23,10 @@ To build a **secure and resilient wireless network** that protects sensitive bus
 - `Secure_WiFi_Project.pkt` – Cisco Packet Tracer file
 - `README.md` – Project documentation
 
+## 🖼️ Network Topology:
+![Network Topology](network_topology.png)
+
+
 ## 🙌 Author:
 **Uday Bhale**  
 Intern, NIIT Foundation x Cisco Cybersecurity Program  
