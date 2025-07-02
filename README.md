@@ -26,7 +26,7 @@ To build a **secure and resilient wireless network** that protects sensitive bus
 ## 🙌 Author:
 **Uday Bhale**  
 Intern, NIIT Foundation x Cisco Cybersecurity Program  
-[LinkedIn Profile](https://www.linkedin.com/in/udaybhale/) *(Replace this with your actual LinkedIn URL)*
+[LinkedIn Profile](https://www.linkedin.com/in/udaybhale/) 
 
 ## 📢 Acknowledgement:
 Thanks to **NIIT Foundation** and **Cisco Networking Academy** for mentorship and real-world learning exposure.
